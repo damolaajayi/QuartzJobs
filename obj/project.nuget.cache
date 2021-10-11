@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "olZjK377NExYNiLglU2yFPw5az1SYKH4AlmwTi8/arHasuMvDLQrszwj/hCyNfyLNRKpj1Z9LjxqJs511qehVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adedamola.ajayi\\source\\repos\\QuartzJobs\\QuartzJobs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\liblog\\5.0.8\\liblog.5.0.8.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\quartz\\3.3.3\\quartz.3.3.3.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\adedamola.ajayi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
